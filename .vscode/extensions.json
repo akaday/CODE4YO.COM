@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "xdebug.php-debug"
+        "xdebug.php-debug",
+        "googlecloudtools.cloudcode"
     ]
 }
