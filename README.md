@@ -1,4 +1,5 @@
 # Code4Yo
+![Capture d'écran 2024-11-12 230856](https://github.com/user-attachments/assets/446f7259-90bd-4998-b60c-a85d4a802130)
 
 Welcome to the **Code4Yo** project! This platform provides live coding sessions, project showcases, and tutorials.
 
